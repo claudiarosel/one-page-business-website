@@ -1,2 +1,2 @@
 # one-page-business-website
-One-Page website with six sections, perfect for small business
+One-Page website for a small business, totally responsible and with different sections
